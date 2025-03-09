@@ -1,0 +1,5 @@
+export DPU_NODE_TYPE=KindNode
+export TEST_CLUSTER_KUBECONFI="/Users/willwang/.kube/config"
+export DPU_CLUSTER_TOKEN="abcdef.0123456789abcdef"
+export DPU_CLUSTER_HASH="sha256:3691a18d1353ba2d280ec60805a32adc33b0e65639262b6421c0c7738cae5b4f"
+export DPU_CLUSTER_ENDPOINT="172.18.0.2:6443"
